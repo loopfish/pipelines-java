@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/loopfish/YAML/_apis/build/status/loopfish.pipelines-java?branchName=master)](https://dev.azure.com/loopfish/YAML/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
